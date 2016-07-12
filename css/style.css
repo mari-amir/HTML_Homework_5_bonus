@@ -1,0 +1,22 @@
+table {
+    margin: auto;
+    background: #fff;
+    color: transparent;
+}
+td, th {
+    border: 10px solid #3a3e34;
+    width: 100px;
+    height: 80px;
+}
+.yellow {
+    background: #fff368;
+}
+.red {
+    background: #ff5c3f;
+}
+.black {
+    background: #1d2724;
+}
+.blue {
+    background: #074585;
+}
